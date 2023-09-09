@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AliNikseresht&label=Profile%20views&color=C70039&style=flat" alt="AliNikseresht" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirhajif&label=Profile%20views&color=C70039&style=flat" alt="amir hajitabar" /> </p>
 <h1 align="center">Hi 🤩 Welcome , I'm Amir Hajitabar</h1>
 <h3 align="center">A frontend developer</h3>
 
