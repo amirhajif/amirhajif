@@ -19,28 +19,40 @@
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-    <td align="center" width="85">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      <br>Python
+    <td align="center" width="85">      
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+      <br>JavaScript
     </td>
     <td align="center" width="85">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
       <br>React
     </td>
     <td align="center" width="85">
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
       <br>Redux
     </td>
     <td align="center" width="85">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+      <br>NextJs
+    </td>
+    <td align="center" width="85">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+      <br>NodeJs
     </td>
      <td align="center" width="85">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+      <br>ExpressJs
+    </td>
+    <td align="center"  width="85">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+      <br>NestJs
+    </td>
+    <td align="center" width="85">      
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
       <br>TypeScript
     </td>
     <td align="center"  width="85">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
       <br>HTML5
     </td>
     <td align="center" width="85">
@@ -55,6 +67,8 @@
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
+  </tr>
+  <tr>
     <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>TailwindCss
@@ -62,6 +76,10 @@
     <td align="center" width="85">
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
       <br>jQuery
+    </td>
+    <td align="center" width="85"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />      
+      <br>Postgresql
     </td>
     <td align="center" width="85">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
@@ -75,12 +93,12 @@
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
     </td>
-        <td align="center" width="85"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+    <td align="center" > 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
       <br>Git
     </td>
         <td align="center" width="85">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="48" height="48" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
       <br>Github
     </td>
  </tr>
