@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 🤩 Welcome , I'm Amir Hajitabar</h1>
-<h3 align="center">A frontend developer</h3>
+<h3 align="center">A FullStack developer</h3>
 
 <h3 align="left">✅ Steve Jobs :</h3>
 <h4 align="center">"Everyone should learn computer programming because programming teaches you how to think."
