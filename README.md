@@ -6,7 +6,7 @@
 <h4 align="center">"Everyone should learn computer programming because programming teaches you how to think."
 </h4> 
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **MachineLearning**
 
 - 👨‍💻 All of my projects are available at [GITHUB](https://github.com/amirhajif)
 
